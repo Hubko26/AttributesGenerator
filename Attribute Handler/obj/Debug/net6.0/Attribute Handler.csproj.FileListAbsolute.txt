@@ -12,3 +12,17 @@ C:\Users\hubac\source\repos\Attribute Handler\Attribute Handler\obj\Debug\net6.0
 C:\Users\hubac\source\repos\Attribute Handler\Attribute Handler\obj\Debug\net6.0\Attribute Handler.pdb
 C:\Users\hubac\source\repos\Attribute Handler\Attribute Handler\obj\Debug\net6.0\Attribute Handler.genruntimeconfig.cache
 C:\Users\hubac\source\repos\Attribute Handler\Attribute Handler\obj\Debug\net6.0\ref\Attribute Handler.dll
+C:\Users\hubac\source\repos\Attribute Handler\AttributesGenerator\Attribute Handler\bin\Debug\net6.0\Attribute Handler.exe
+C:\Users\hubac\source\repos\Attribute Handler\AttributesGenerator\Attribute Handler\bin\Debug\net6.0\Attribute Handler.deps.json
+C:\Users\hubac\source\repos\Attribute Handler\AttributesGenerator\Attribute Handler\bin\Debug\net6.0\Attribute Handler.runtimeconfig.json
+C:\Users\hubac\source\repos\Attribute Handler\AttributesGenerator\Attribute Handler\bin\Debug\net6.0\Attribute Handler.dll
+C:\Users\hubac\source\repos\Attribute Handler\AttributesGenerator\Attribute Handler\bin\Debug\net6.0\Attribute Handler.pdb
+C:\Users\hubac\source\repos\Attribute Handler\AttributesGenerator\Attribute Handler\obj\Debug\net6.0\Attribute Handler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hubac\source\repos\Attribute Handler\AttributesGenerator\Attribute Handler\obj\Debug\net6.0\Attribute Handler.AssemblyInfoInputs.cache
+C:\Users\hubac\source\repos\Attribute Handler\AttributesGenerator\Attribute Handler\obj\Debug\net6.0\Attribute Handler.AssemblyInfo.cs
+C:\Users\hubac\source\repos\Attribute Handler\AttributesGenerator\Attribute Handler\obj\Debug\net6.0\Attribute Handler.csproj.CoreCompileInputs.cache
+C:\Users\hubac\source\repos\Attribute Handler\AttributesGenerator\Attribute Handler\obj\Debug\net6.0\Attribute Handler.dll
+C:\Users\hubac\source\repos\Attribute Handler\AttributesGenerator\Attribute Handler\obj\Debug\net6.0\refint\Attribute Handler.dll
+C:\Users\hubac\source\repos\Attribute Handler\AttributesGenerator\Attribute Handler\obj\Debug\net6.0\Attribute Handler.pdb
+C:\Users\hubac\source\repos\Attribute Handler\AttributesGenerator\Attribute Handler\obj\Debug\net6.0\Attribute Handler.genruntimeconfig.cache
+C:\Users\hubac\source\repos\Attribute Handler\AttributesGenerator\Attribute Handler\obj\Debug\net6.0\ref\Attribute Handler.dll
