@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Attribute_Handler
 {
-    public interface Generatable
+    public interface IGeneratable
     {
         public static readonly string[] DataTypes = { "string", "i", "char30" };
-        void GeneratedCodeAttribute();
+        public void GeneratedCodeAttribute();
     }
 }

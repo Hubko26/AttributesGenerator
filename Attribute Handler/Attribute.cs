@@ -7,24 +7,35 @@ using System.Xml;
 
 namespace Attribute_Handler
 {
-    internal class Attribute : Generatable
+    internal class Attribute : IGeneratable
     {
         public string AttributeName { get; set; }
 
         public string AttributeDataType { get; set; }
 
+        public string APPEDIA_ATTRIBUTE { get; set; }
+
         public IEnumerable<string> ?FilesToUpdate { get; set; }
 
         public string ?DataElement { get; set; }
 
-        public Attribute(string attributeName, string attributeDataType)
+        public Attribute(string attributeName, string attributeDataType, string repo)
         {
             AttributeName = attributeName;
             AttributeDataType = attributeDataType;
+            APPEDIA_ATTRIBUTE = repo + "\\src\\artifacts\\appedia_attribute.clas.abap";
         }
 
-        void Generatable.GeneratedCodeAttribute()
+        void IGeneratable.GeneratedCodeAttribute()
         {
+            var reader = new StringReader(APPEDIA_ATTRIBUTE);
+            string input = reader.ReadToEnd();
+
+
+            using (var writer = new StreamWriter(APPEDIA_ATTRIBUTE))
+            {
+                
+            }
             throw new NotImplementedException();
         }
     }
